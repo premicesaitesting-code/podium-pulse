@@ -1,0 +1,5 @@
+{
+  "name": "Podium Pulse Live",
+  "description": "A real-time race analytics and strategy tool for the Toyota GR Cup hackathon. It simulates real-time race decision-making, providing a live dashboard, pit strategy analysis, and performance visualizations.",
+  "requestFramePermissions": []
+}
